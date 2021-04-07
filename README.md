@@ -5,7 +5,7 @@ Add DVR cams IP in ip_list.txt
 
 example:
 
-212.253.84.86
+212.253.84.86<br>
 106.243.131.1002
 
 
@@ -15,5 +15,6 @@ python3 camkatana.py
 output with pass in new .txt 
 
 
-example:
+example:<br>
+
 212.253.84.86 login:password
