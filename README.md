@@ -6,7 +6,7 @@ Add DVR cams IP in ip_list.txt
 example:
 
 212.253.84.86<br>
-106.243.131.1002
+106.243.131:1002
 
 
 Run by:
